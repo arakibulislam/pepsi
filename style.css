@@ -59,7 +59,8 @@
         padding-bottom: 15px;
     }
     #main-image{
-        width:130px  !important;
+        width:170px  !important;
+        margin-right: 5%;
     }
     .image{
         width: 25px;
